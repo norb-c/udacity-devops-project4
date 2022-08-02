@@ -1,4 +1,4 @@
-[![norb-c](https://circleci.com/gh/norb-c/udacity-devops-project4.svg?style=svg)](<LINK>)
+[![norb-c](https://circleci.com/gh/norb-c/udacity-devops-project4.svg?style=svg)](https://app.circleci.com/pipelines/github/norb-c/udacity-devops-project4)
 
 ## Project Overview
 
