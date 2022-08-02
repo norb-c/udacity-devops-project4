@@ -1,0 +1,5 @@
+NAME                           READY   STATUS    RESTARTS   AGE
+udaproject4-54c44487c4-l8hnt   1/1     Running   0          3m33s
+
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
