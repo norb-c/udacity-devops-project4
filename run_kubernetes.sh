@@ -16,4 +16,4 @@ kubectl get deploy,rs,svc,pods
 
 # Step 4:
 # Forward the container port to a host
-kubectl port-forward pod/udaproject4-54c44487c4-l8hnt --address 0.0.0.0 8000:80
+kubectl port-forward pod/udaproject4-54c44487c4-tdc8l --address 0.0.0.0 8000:80
