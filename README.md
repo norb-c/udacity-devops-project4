@@ -6,7 +6,7 @@ This operationalize a Machine Learning Microservice API. It microservice is depl
 
 ## Project files
 - .circleci: holds the CI/CD configuration built with circle ci
-- model_data: Holds the the pretrained machine learning model
+- model_data: Holds the the pre-trained machine learning model
 - output_txt_files: Holds the output files from the docker and kubernetes
 - run_docker.sh: Runs the aop in a docker container
 - run_kubernetes.sh: Runs the app the kubernetes cluster
